@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**lobatojorge/lobatojorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Data Architect | Bioinformatician | MLOps
 
-Here are some ideas to get you started:
+Diseño infraestructuras para optimizar el tratamiento y uso de datos biológicos. Mi objetivo es poner a disposición de los investigadores datos fiables, validados y totalmente trazables. Aplico Machine Learning en entornos de investigació y estoy en constante actualización.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+*   **Lenguajes:** Python y R
+*   Estandarización de archivos en **Polars** y almacenamiento en **Apache** Arrow (Parquet)
+*   **ML** Isolation Forest, Deep Learning (TimeGPT)
+*   **Visor interactivo** Streamlit, Quarto y R Shiny
+
+### Foco Actual
+Construyendo sistemas de alerta temprana para datos oceanográficos y ecológicos
