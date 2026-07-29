@@ -10,6 +10,4 @@ Diseño infraestructuras para optimizar el tratamiento y uso de datos biológico
 *   **Visor interactivo** Streamlit, Quarto y R Shiny
 
 ### Foco Actual
-Emplear datos oceanográficos para crear un Sistema de Alerta Temprana que nos permita preever y adaptarnos a condiciones cambiantes.
-
-[![Data Pipeline](https://github.com/lobatojorge/PoC-Machine-Learning/actions/workflows/main.yml/badge.svg)](https://github.com/lobatojorge/PoC-Machine-Learning/actions/workflows/main.yml)
+Emplear datos oceanográficos para crear un Sistema de Alerta Temprana que nos permita preever y adaptarnos a condiciones cambiantes
