@@ -1,8 +1,7 @@
-## Hola 👋
+## Oceanic Data Architect | MLOps & Time Series Forecasting
 
-<!--# Data Architect | Bioinformatician | MLOps
-
-Diseño infraestructuras para optimizar el tratamiento y uso de datos biológicos. Mi objetivo es poner a disposición de los investigadores datos fiables, validados y totalmente trazables. Aplico Machine Learning en entornos de investigació y estoy en constante actualización.
+<!--
+Diseño infraestructuras para optimizar el tratamiento y uso de datos biológicos. Mi objetivo es poner a disposición de los investigadores datos fiables, validados y totalmente trazables. Aplico Machine Learning en entornos de investigación y estoy en constante actualización.
 
 ### Stack
 *   **Lenguajes:** Python y R
@@ -11,4 +10,4 @@ Diseño infraestructuras para optimizar el tratamiento y uso de datos biológico
 *   **Visor interactivo** Streamlit, Quarto y R Shiny
 
 ### Foco Actual
-Construyendo sistemas de alerta temprana para datos oceanográficos y ecológicos
+Emplear datos oceanográficos para crear un Sistema de Alerta Temprana que nos permita preever y adaptarnos a condiciones cambiantes.
