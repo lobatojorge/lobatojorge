@@ -12,9 +12,4 @@ Diseño infraestructuras para optimizar el tratamiento y uso de datos biológico
 ### Foco Actual
 Emplear datos oceanográficos para crear un Sistema de Alerta Temprana que nos permita preever y adaptarnos a condiciones cambiantes.
 
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-00589B?style=for-the-badge&logo=RStudio&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-4B75BB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Parquet](https://img.shields.io/badge/Apache_Parquet-E76F00?style=for-the-badge&logo=apache&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+[![Data Pipeline](https://github.com/lobatojorge/PoC-Machine-Learning/actions/workflows/main.yml/badge.svg)](https://github.com/lobatojorge/PoC-Machine-Learning/actions/workflows/main.yml)
